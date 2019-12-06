@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+</resources>
